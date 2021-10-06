@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<theme>
+  <format-version>4.0</format-version>
+  <themecolor>3</themecolor>
+  <fontcolor>#FF170680</fontcolor>
+  <fontshadowcolor>#9400FFDD</fontshadowcolor>
+  <focuscolor>#9400FFDD</focuscolor>
+  <homescreen-dimmer>#4B00FFDD</homescreen-dimmer>
+  <functionscreen-dimmer>#4B00FFDD</functionscreen-dimmer>
+  <titlename-dimmer>#4B00FFDD</titlename-dimmer>
+  <homebgm-enable>True</homebgm-enable>
+  <label>TRIPPYTHEME</label>
+</theme>

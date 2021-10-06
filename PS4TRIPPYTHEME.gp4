@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<psproject fmt="gp4" version="1000">
+  <volume>
+    <volume_type>pkg_ps4_theme</volume_type>
+    <volume_id>PS4VOLUME</volume_id>
+    <volume_ts>2021-10-05 21:34:34</volume_ts>
+    <package content_id="UP0001-CUSA13666_00-PSTCTHEME0100000" passcode="00000000000000000000000000000000"/>
+  </volume>
+  <files img_no="0">
+    <file targ_path="sound/bgm_home.at9" orig_path="PS4TRIPPY\sound\bgm_home.at9"/>
+    <file targ_path="sound/se_cancel.vag" orig_path="PS4TRIPPY\sound\se_cancel.vag"/>
+    <file targ_path="sound/se_cursor.vag" orig_path="PS4TRIPPY\sound\se_cursor.vag"/>
+    <file targ_path="sound/se_decide.vag" orig_path="PS4TRIPPY\sound\se_decide.vag"/>
+    <file targ_path="texture/background/homescreen.png" orig_path="PS4TRIPPY\texture\background\homescreen.png"/>
+    <file targ_path="texture/background/functionscreen.png" orig_path="PS4TRIPPY\texture\background\functionscreen.png"/>
+    <file targ_path="texture/content_icon/browser_4k.png" orig_path="PS4TRIPPY\texture\content_icon\browser_4k.png"/>
+    <file targ_path="texture/content_icon/browser.png" orig_path="PS4TRIPPY\texture\content_icon\browser.png"/>
+    <file targ_path="texture/content_icon/disc_4k.png" orig_path="PS4TRIPPY\texture\content_icon\disc_4k.png"/>
+    <file targ_path="texture/content_icon/disc.png" orig_path="PS4TRIPPY\texture\content_icon\disc.png"/>
+    <file targ_path="texture/content_icon/gallery_4k.png" orig_path="PS4TRIPPY\texture\content_icon\gallery_4k.png"/>
+    <file targ_path="texture/content_icon/gallery.png" orig_path="PS4TRIPPY\texture\content_icon\gallery.png"/>
+    <file targ_path="texture/content_icon/library_4k.png" orig_path="PS4TRIPPY\texture\content_icon\library_4k.png"/>
+    <file targ_path="texture/content_icon/library.png" orig_path="PS4TRIPPY\texture\content_icon\library.png"/>
+    <file targ_path="texture/content_icon/livefromps_4k.png" orig_path="PS4TRIPPY\texture\content_icon\livefromps_4k.png"/>
+    <file targ_path="texture/content_icon/livefromps.png" orig_path="PS4TRIPPY\texture\content_icon\livefromps.png"/>
+    <file targ_path="texture/content_icon/usbmusic_4k.png" orig_path="PS4TRIPPY\texture\content_icon\usbmusic_4k.png"/>
+    <file targ_path="texture/content_icon/usbmusic.png" orig_path="PS4TRIPPY\texture\content_icon\usbmusic.png"/>
+    <file targ_path="texture/content_icon/discoverlay_4k.png" orig_path="PS4TRIPPY\texture\content_icon\discoverlay_4k.png"/>
+    <file targ_path="texture/content_icon/discoverlay.png" orig_path="PS4TRIPPY\texture\content_icon\discoverlay.png"/>
+    <file targ_path="texture/content_icon/folder_4k.png" orig_path="PS4TRIPPY\texture\content_icon\folder_4k.png"/>
+    <file targ_path="texture/content_icon/folder.png" orig_path="PS4TRIPPY\texture\content_icon\folder.png"/>
+    <file targ_path="texture/content_icon/shareplay_4k.png" orig_path="PS4TRIPPY\texture\content_icon\shareplay_4k.png"/>
+    <file targ_path="texture/content_icon/shareplay.png" orig_path="PS4TRIPPY\texture\content_icon\shareplay.png"/>
+    <file targ_path="texture/content_icon/tvvideo_4k.png" orig_path="PS4TRIPPY\texture\content_icon\tvvideo_4k.png"/>
+    <file targ_path="texture/content_icon/tvvideo.png" orig_path="PS4TRIPPY\texture\content_icon\tvvideo.png"/>
+    <file targ_path="texture/function_icon/notification.png" orig_path="PS4TRIPPY\texture\function_icon\notification.png"/>
+    <file targ_path="texture/function_icon/notification_glow.png" orig_path="PS4TRIPPY\texture\function_icon\notification_glow.png"/>
+    <file targ_path="texture/function_icon/friend.png" orig_path="PS4TRIPPY\texture\function_icon\friend.png"/>
+    <file targ_path="texture/function_icon/friend_glow.png" orig_path="PS4TRIPPY\texture\function_icon\friend_glow.png"/>
+    <file targ_path="texture/function_icon/event.png" orig_path="PS4TRIPPY\texture\function_icon\event.png"/>
+    <file targ_path="texture/function_icon/event_glow.png" orig_path="PS4TRIPPY\texture\function_icon\event_glow.png"/>
+    <file targ_path="texture/function_icon/community.png" orig_path="PS4TRIPPY\texture\function_icon\community.png"/>
+    <file targ_path="texture/function_icon/community_glow.png" orig_path="PS4TRIPPY\texture\function_icon\community_glow.png"/>
+    <file targ_path="texture/function_icon/message.png" orig_path="PS4TRIPPY\texture\function_icon\message.png"/>
+    <file targ_path="texture/function_icon/message_glow.png" orig_path="PS4TRIPPY\texture\function_icon\message_glow.png"/>
+    <file targ_path="texture/function_icon/party.png" orig_path="PS4TRIPPY\texture\function_icon\party.png"/>
+    <file targ_path="texture/function_icon/party_glow.png" orig_path="PS4TRIPPY\texture\function_icon\party_glow.png"/>
+    <file targ_path="texture/function_icon/setting.png" orig_path="PS4TRIPPY\texture\function_icon\setting.png"/>
+    <file targ_path="texture/function_icon/setting_glow.png" orig_path="PS4TRIPPY\texture\function_icon\setting_glow.png"/>
+    <file targ_path="texture/function_icon/trophy.png" orig_path="PS4TRIPPY\texture\function_icon\trophy.png"/>
+    <file targ_path="texture/function_icon/trophy_glow.png" orig_path="PS4TRIPPY\texture\function_icon\trophy_glow.png"/>
+    <file targ_path="texture/function_icon/power.png" orig_path="PS4TRIPPY\texture\function_icon\power.png"/>
+    <file targ_path="texture/function_icon/power_glow.png" orig_path="PS4TRIPPY\texture\function_icon\power_glow.png"/>
+    <file targ_path="texture/preview.png" orig_path="PS4TRIPPY\texture\preview.png"/>
+    <file targ_path="theme.xml" orig_path="PS4TRIPPY\theme.xml"/>
+    <file targ_path="sce_sys/icon0.png" orig_path="PS4TRIPPY\sce_sys\icon0.png"/>
+    <file targ_path="sce_sys/param.sfo" orig_path="PS4TRIPPY\sce_sys\param.sfo"/>
+  </files>
+  <rootdir>
+    <dir targ_name="sce_sys"/>
+    <dir targ_name="sound"/>
+    <dir targ_name="texture">
+      <dir targ_name="background"/>
+      <dir targ_name="content_icon"/>
+      <dir targ_name="function_icon"/>
+    </dir>
+  </rootdir>
+</psproject>
